@@ -30,7 +30,9 @@
 *.lol
 *.run.xml
 *.pdf
-!**/finals/*.html
+!**/out/*.html
+!**/out/*.pdf
+
 
 # Javascript
 **/node_modules/**

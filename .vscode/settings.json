@@ -85,5 +85,6 @@
             ],
             "env": {}
         }
-    ]
+    ],
+    "editor.fontSize": 13
 }
